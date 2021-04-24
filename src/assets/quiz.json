@@ -1,0 +1,82 @@
+[{
+    "question":"Which was the first search engine in internet? ",
+    "answer":[
+      {"option":"Google","correct":false},
+      {"option":"Altavista","correct":false},
+      {"option":"Archie","correct":true}
+    ]
+  },
+  {
+    "question":"How many number of bits are used in IPv6? ",
+    "answer":[
+      {"option":"128","correct":true},
+      {"option":"32","correct":false},
+      {"option":"64","correct":false}
+    ]
+  },
+  {
+    "question":"Which was the first Web Browser invented in 1990? ",
+    "answer":[
+      {"option":"Nexus","correct":true},
+      {"option":"Bing","correct":false},
+      {"option":"Mozilla","correct":false}
+    ]
+  },
+  {
+    "question":"First Computer Virus was?  ",
+    "answer":[
+      {"option":"Rabbit","correct":false},
+      {"option":"SCA","correct":false},
+      {"option":"Creeper Virus","correct":true}
+    ]
+  },
+  {
+    "question":"One Programming Language which is exclusively used in Artificial Intelligence",
+    "answer":[
+      {"option":"Java","correct":false},
+      {"option":"Prolog","correct":true},
+      {"option":"C++","correct":false}
+    ]
+  },
+  {
+    "question":"Firewall in computer is used for?",
+    "answer":[
+      {"option":"Authentication","correct":false},
+      {"option":"Monitoring","correct":false},
+      {"option":"Security","correct":true}
+    ]
+  },
+  {
+    "question":"Number of layers in OSI Model ",
+    "answer":[
+      {"option":"7","correct":true},
+      {"option":"12","correct":false},
+      {"option":"3","correct":false}
+    ]
+  },
+  {
+    "question":"Which of the following is the first calculating device?",
+    "answer":[
+      {"option":"Turing Machine","correct":false},
+      {"option":"Calculator","correct":false},
+      {"option":"Abacus","correct":true}
+    ]
+  },
+  {
+    "question":" Who invented mechanical calculator called Pascaline?",
+    "answer":[
+      {"option":"Alan Turing","correct":false},
+      {"option":"Blaise Pascal","correct":true},
+      {"option":"Lee De Forest","correct":false}
+    ]
+  },
+  {
+    "question":"Who among the following considered as the 'father of artificial intelligence'?",
+    "answer":[
+      {"option":"Charles Babbage","correct":false},
+      {"option":"Lee De Forest","correct":false},
+      {"option":"John McCarthy","correct":true}
+    ]
+  }
+
+]
